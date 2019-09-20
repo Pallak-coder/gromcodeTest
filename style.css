@@ -1,0 +1,39 @@
+#top {
+	background: black;
+	height: 125px;
+	
+}
+#oll {
+	float: left;
+	width: 80%;
+}
+h1,h2,p,summary,details,table,a {
+	color: white;
+}
+h1 {
+	font-size: 100px;
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+td {
+	
+}
+#table img {
+	width: 576px;
+	height: 324px;
+}
+ul {
+	text-align: center;
+}
+body {
+	background: black;
+}
+details {
+	text-align: center;
+}
+#blockr {
+	float: right;
+	width: 20%;
+}
